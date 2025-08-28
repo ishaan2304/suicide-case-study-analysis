@@ -1,2 +1,2 @@
 # suicide-case-study-analysis
-Analysis on suicide details of the people
+Analysis on suicide details of the people.
